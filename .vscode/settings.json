@@ -1,5 +1,6 @@
 {
   "conventionalCommits.scopes": [
-    "git convention"
+    "git convention",
+    "start_server"
   ]
 }
